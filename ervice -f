@@ -1,0 +1,5 @@
+● mavlink-router.service - MAVLink Router Service
+     Loaded: loaded (/etc/systemd/system/mavlink-router.service; enabled; vendor preset: enabled)
+     Active: activating (auto-restart) (Result: exit-code) since Tue 2026-04-14 10:31:32 IDT; 2s ago
+    Process: 6379 ExecStart=/usr/local/bin/mavlink-routerd [0;1;31m(code=exited, status=203/EXEC)[0m
+   Main PID: 6379 (code=exited, status=203/EXEC)
